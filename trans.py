@@ -12,7 +12,7 @@ def generate_lowercase_and_original(word):
 df = pd.read_csv(r'dic.tsv', sep='\t')
 
 # Input string
-input_string = "KdmV Ah jM hg"
+input_string = input()
 
 # Split the input string into words
 words = input_string.split()
