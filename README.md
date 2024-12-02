@@ -11,3 +11,5 @@
 - [ ] Telegram bot
 - [ ] update and fill the dictionary
 - [ ] move code base into golang for speed
+- [ ] normal khmer to slang
+- [ ] slang to normal khmer 
