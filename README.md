@@ -13,3 +13,7 @@
 - [ ] move code base into golang for speed
 - [ ] normal khmer to slang
 - [ ] slang to normal khmer 
+- [ ] get out of alpha testing
+- [ ] get out of beta testing
+- [ ] full release
+- [x] working protype
