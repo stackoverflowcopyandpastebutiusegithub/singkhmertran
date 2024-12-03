@@ -1,5 +1,5 @@
 type (special)	priority	without tran	in khmer	2nd meaning
-	backtrack	Ng	នឹង	
+	1	ng	នឹង	
 		ng	ហ្នឹង	
 		anh 	អញ	
 		ah	អា	
@@ -17,15 +17,15 @@ swear(untran)		kdmv	(pure input)
 		nos 	នោះ	
 		tnam	ថ្នាំ	
 eng		mean	មាន	
-	back track	b	បង	
-		Bong 	បង	
-	backtrack 	o	អូន	
+	1	b	បង	
+		bong 	បង	
+	1	o	អូន	
 		oun	អូន	
 swear(untran)		jui	(pure input)	
 swear(untran)		juii	(pure input)	
 		ot	អត់	
 		jes	ចេះ	
-	backtrack 	eyas	អីយ៉ាស	
+	1	eyas	អីយ៉ាស	
 		steav	ស្ទាវ	
 		nas	ណាស់	
 		dek	ដេក	
@@ -33,8 +33,9 @@ swear(untran)		juii	(pure input)
 		jrik	ចរិត	
 		knea	គ្នា	
 eng		you	(pure input)	
-eng	backtrack 	u	(pure input)	
-	backtrack(2 output)	jg	ចង់	ជង
+eng	1	u	(pure input)	
+	1a	jg	ចង់	
+	1a	jg	ជង	
 eng		dog	ឆ្កែ	
 		tt	ទៀត	
 		mix	ម៉េច	
@@ -42,11 +43,11 @@ eng		dog	ឆ្កែ
 		mk	មក	
 		na	ណា	
 		ke	គេ	
-eng (diff)	backtrack 	brb	ប្រាប់	
+eng (diff)	1	brb	ប្រាប់	
 eng(abv)		prv	private 	
 		dg	ដឹង	
 	 	tae	តែ	
-	backtrack	tea	តែ	
+	1	tea	តែ	
 eng(abv)		cr	crush 	
 		jenh	ចេញ	
 		ban	បាន	
@@ -56,7 +57,7 @@ eng(abv)		cr	crush
 eng(abv)		eya	អីយ៉ាស	
 		c	ស៉ី	
 		tnong	ទំនង	
-		muy	មួយ	
+	1	muy	មួយ	
 		yap	យ៉ាប់	
 		kiki	គីគី	
 		chuii	ឆុយ	
@@ -72,7 +73,7 @@ miss		nhe	ask
 miss		nahii	ask	
 		p'teas	ផ្ទះ	
 		aylov	ឥឡូវ	
-	backtrack 	hx	ហើយ	
+	1	hx	ហើយ	
 		klun	ខ្លួន	
 		jay	ចាយ	
 		min	មិន	
@@ -92,18 +93,56 @@ eng		*name*	ask
 		sin	សិន	
 		pyat 	ប្រយ័ត្ន	
 		yab	យ៉ាប់	
-		doch	ដូច	
 		mun	មុន	
 		sach	សាច់	
 		jren	ច្រើន	
 		sur	សួរ	
-		ey yah	អីយ៉ាស	
-	backtrack	ey ya	អីយ៉ា	
+		"ey yah"	អីយ៉ាស	
+	1	"ey ya"	អីយ៉ា	
 		rean	រៀន	
 		kjel	ខ្ជិល	
 		krur sa	គ្រួសារ	
 		chue	ឈឺ	
 		tver	ធ្វើ	
-		Kor	ក៏	
+			ក៏	
 		Srol	ស្រួល	
 		hg	អ្ហែង	
+		Kernh	ឃើញ	
+		thunnh	ធុញ	
+		ha	ហា	
+		te	ទេ	
+		ja	ចា	
+		ahnakot	អនាគត	
+		men	មែន	
+		hark	ហាក់	
+		keang	គាំង	
+		nah	ណា	
+		mea	ម៉ែ	
+		hah	ហា	
+		dermbey	ដើម្បី	
+		khom	ខំ	
+		jlom	ច្រឡុំ	ច្រលំ
+		mg	ម៉េច	
+		dea	តែ	
+		jit	ជិត	
+		sdach	ស្តេច	
+		kamjea	ឥឡូវ	
+		leab	លាភ	
+		lv	ឥឡូវ	
+		thom	ធំ	
+		somkhan	សង្ក្រាន្ត	
+		kor	ដ៏	
+		torv	ទៅ	
+		rk	រក	
+		orn	អន់	
+		tum	ទុំ	
+		yp	យ៉ាប់	
+		jas	ចាស	ចាស់
+		kmeng	ក្មេង	
+		toch	តូច	
+		leang	ឡើង	លេង
+		ham	ហាម	
+		bork	បោក	
+		mui	មួយ	1
+		doch	ដូច	
+		chet	ចិត្ត	

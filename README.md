@@ -16,4 +16,4 @@
 - [ ] get out of alpha testing
 - [ ] get out of beta testing
 - [ ] full release
-- [x] working protype
+- [x] working prototype
