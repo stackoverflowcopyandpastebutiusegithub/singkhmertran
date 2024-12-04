@@ -12,7 +12,7 @@ def generate_lowercase_and_original(word):
 
 # Function to split text into words and symbols while keeping their positions
 def split_text(text):
-    return re.findall(r'\w+|[^\w\s]', text, re.UNICODE)
+    return re.findall(r"[a-zA-Z0-9']+|[^\w\s]", text, re.UNICODE)
 
 # Get the current directory of the script
 script_dir = os.getcwd()  # Use os.getcwd() to get the current working directory
@@ -33,7 +33,7 @@ invar = {}
 
 # Generate lowercase and original capitalization for each word and assign to variables
 for word in words_and_symbols:
-    if word.isalnum():  # Only process alphanumeric words
+    if re.match(r"[a-zA-Z0-9']+", word):  # Only process alphanumeric words and words with apostrophes
         invar[word.lower().strip()] = generate_lowercase_and_original(word)
 
 # Compare with data in the 3rd column from the start (left)
