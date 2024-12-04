@@ -8,12 +8,11 @@
 
 ## 🎯TODO
 
+- [x] slang to normal khmer
+- [ ] normal khmer to slang
 - [ ] Telegram bot
 - [ ] update and fill the dictionary
-- [ ] move code base into golang for speed
-- [ ] normal khmer to slang
-- [ ] slang to normal khmer 
+- [ ] move code base into golang for speed (on hold)
 - [ ] get out of alpha testing
 - [ ] get out of beta testing
 - [ ] full release
-- [x] working prototype
