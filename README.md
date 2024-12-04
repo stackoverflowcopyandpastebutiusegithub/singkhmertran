@@ -9,13 +9,13 @@
 ## 🎯TODO
 
 - :white_check_mark: slang to normal khmer
-- normal khmer to slang
--  Telegram bot
--  update and fill the dictionary
--  move code base into golang for speed (on hold)
--  get out of alpha testing
--  get out of beta testing
--  full release
+-  :x: normal khmer to slang
+-  :x: Telegram bot
+-  :x: update and fill the dictionary
+-  :x: move code base into golang for speed (on hold)
+-  :x: get out of alpha testing
+-  :x: get out of beta testing
+-  :x: full release
 
 ## Main release
 
