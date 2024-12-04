@@ -8,7 +8,7 @@
 
 ## 🎯TODO
 
-- [x] slang to normal khmer
+- [:white_check_mark:] slang to normal khmer
 - [ ] normal khmer to slang
 - [ ] Telegram bot
 - [ ] update and fill the dictionary
