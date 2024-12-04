@@ -16,3 +16,7 @@
 - [ ] get out of alpha testing
 - [ ] get out of beta testing
 - [ ] full release
+
+## Main release
+
+this bot can be found at https://t.me/Sing_khmer_bot
