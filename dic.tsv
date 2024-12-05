@@ -41,10 +41,11 @@ eng		dog	ឆ្កែ
 		mix	ម៉េច				
 		jng	ចង់				
 		mk	មក				
+		sahaka	សហការ				
 		na	ណា				
 		ke	គេ				
 eng (diff)	1	brb	ប្រាប់				
-eng(abv)		prv	private 				
+eng(abv)		prv	ផ្ទាល់ខ្លួន				
 		dg	ដឹង				
 	 	tae	តែ				
 	1	tea	តែ				
@@ -99,90 +100,10 @@ eng		*name*	ask
 		sach	សាច់				
 		jren	ច្រើន				
 		sur	សួរ				
-		ya	យ៉ា				
+miss		ya	យ៉ា				
 		"ey yah"	អីយ៉ាស				
-		yah	យ៉ាស				
+miss		yah	យ៉ាស				
 		"ey ya"	អីយ៉ា				
 		rean	រៀន				
 		kjel	ខ្ជិល				
-		krur sa	គ្រួសារ				
-		chue	ឈឺ				
-		tver	ធ្វើ				
-		kor	ក៏				
-		Srol	ស្រួល				
-		hg	អ្ហែង				
-		Kernh	ឃើញ				
-		thunnh	ធុញ				
-		ha	ហា				
-		te	ទេ				
-		ja	ចា				
-		ahnakot	អនាគត				
-		men	មែន				
-		hark	ហាក់				
-		keang	គាំង				
-		nah	ណា				
-		mea	ម៉ែ				
-		hah	ហា				
-		dermbey	ដើម្បី				
-		khom	ខំ				
-		jlom	ច្រឡុំ				
-		jlom	ច្រលំ				
-		mg	ម៉េច				
-		dea	តែ				
-		jit	ជិត				
-		sdach	ស្តេច				
-		kamjea	ឥឡូវ				
-		leab	លាភ				
-		lv	ឥឡូវ				
-		thom	ធំ				
-		somkhan	សង្ក្រាន្ត				
-		dor	ដ៏				
-		torv	ទៅ				
-		rk	រក				
-		orn	អន់				
-		tum	ទុំ				
-		yp	យ៉ាប់				
-		jas	ចាស				
-		jas	ចាស់				
-		kmeng	ក្មេង				
-		toch	តូច				
-		leang	ឡើង				
-			លេង				
-		ham	ហាម				
-		bork	បោក				
-		mui	មួយ				
-		mui	1				
-		doch	ដូច				
-		chet	ចិត្ត				
-		chop	ចប់				
-		os ling	អស់រលីង				
-		ling	រលីង				
-		yy	និយាយ				
-		jmr	ចុយម្រាយ				
-		puk	ពួក				
-		khob	ខប់				
-		nus	នោះ				
-		tnak	ថ្នាក់				
-		lerk	ឡើក				
-		sngat	ស្ងាត់				
-		kuy	អង្គុយ				
-		ther	ធ្វើ				
-		mes	ម៉្លេះ				
-		tngai	ថ្ងៃ				
-		pbak	ពិបាក				
-		mer	មើល				
-		tuimui	ទុយមុយ				
-		tlong	ថ្លង់				
-		yub	យ៉ាប់				
-		pi	ពីរ				
-		tne	ទំនេរ				
-		tam	តាម				
-swear		ejui	អីចុយ				
-		lue	ឮ				
-		sleng	សំលេង				
-		swt	ផ្អែម				
-swear		kdor	ក្ត				
-		sahav	សាហាវ				
-swear		kdouy	ក្តួយ				
-swear		Kdet	ក្ដិត				
-swear		jkj	ចោកចុយ				
+		krur sa	គ
