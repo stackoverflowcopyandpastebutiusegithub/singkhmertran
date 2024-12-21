@@ -10,7 +10,7 @@
 
 - :white_check_mark: slang to normal khmer
 -  :x: normal khmer to slang
--  :x: Telegram bot
+-  :white_check_mark: Telegram bot
 -  :x: update and fill the dictionary
 -  :x: move code base into golang for speed (on hold)
 -  :x: get out of alpha testing
