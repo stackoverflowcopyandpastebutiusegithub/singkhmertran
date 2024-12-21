@@ -10,6 +10,8 @@ logging.basicConfig(
     level=logging.INFO
 )
 
+inputtoken = input()
+
 def singinoutkhmer(inputin):
     # Function to generate lowercase and original capitalization
     def generate_lowercase_and_original(word):
@@ -154,7 +156,7 @@ async def back(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text="Back to default mode.")
 
 if __name__ == '__main__':
-    application = ApplicationBuilder().token("").build()
+    application = ApplicationBuilder().token(inputtoken).build()
     
     start_handler = CommandHandler('start', start)
     help_handler = CommandHandler('help', help)
